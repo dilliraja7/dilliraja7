@@ -1,10 +1,10 @@
+HEAD
 # Hi there, I'm Dilliraja L! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;B.Tech+Information+Technology;Generative+AI+%26+RAG+Developer;CNN+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
----
 
 ### 🎯 About Me
 
@@ -116,3 +116,21 @@ I am a passionate **B.Tech Information Technology Graduate (2021-2025)** with a 
   <img src="https://github-readme-stats.vercel.app/api?username=dilliraja7&show_icons=true&theme=radical&count_private=true" alt="Dilliraja's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilliraja7&theme=radical" alt="Dilliraja's GitHub Streak" />
 </p>
+=======
+## Hi there 👋
+
+<!--
+**dilliraja7/dilliraja7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+ 2339dd8938257140eb405a4812713cdda0abd6a9
