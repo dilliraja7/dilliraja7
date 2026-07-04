@@ -109,12 +109,12 @@ Passionate **B.Tech Information Technology** graduate (2021–2025) with strong 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dilliraja7&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=dilliraja7&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dilliraja7&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilliraja7&layout=compact&theme=radical" alt="Top Languages Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dilliraja7&layout=compact&theme=radical" alt="Top Languages Stats"/>
 </p>
 
 ---
