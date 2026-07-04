@@ -32,7 +32,7 @@
 Passionate **B.Tech Information Technology** graduate (2021–2025) with strong interests in **Artificial Intelligence, Machine Learning, Generative AI, Java, Backend Development, and Software Engineering**. I focus on designing and building intelligent, high-performance, and scalable software solutions.
 
 - 🌱 **Current Focus:** Learning and building with **RAG, LLMs, Generative AI, and Agentic AI**.
-- 🤖 **Key Creation:** Developed [TalentRAG-AI](https://github.com/dilliraja7) for AI-powered resume screening.
+- 🤖 **Key Creation:** Developed [TalentRAG-AI: AI-Powered Talent Intelligence System](https://github.com/dilliraja7) for AI-powered resume screening.
 - 🧠 **Research:** Published research on Alzheimer's Detection using a hybrid CNN-LSTM deep learning model.
 - 💡 **Philosophy:** Love solving complex real-world problems by building intelligent and scalable applications.
 - 🚀 **Next Goal:** Open to opportunities as an **AI/ML Engineer, Java Developer, or Software Developer**.
