@@ -1,8 +1,9 @@
 # Hi there, I'm Dilliraja L! 👋
 
 <p align="center">
-  <img src="./profile.jpg" width="180" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);" alt="Dilliraja L"/>
+  <img src="./profile.png" width="180" alt="Dilliraja L"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Software+Developer;Java+Developer;Backend+Developer;Building+Intelligent+%26+Scalable+Applications" alt="Typing SVG" />
@@ -104,20 +105,7 @@ Passionate **B.Tech Information Technology** graduate (2021–2025) with strong 
 * 🥇 **Best Paper Award** — National Conference (2024)
 * 🥉 **3rd Prize** — CSI National Level Project Competition (2025)
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=dilliraja7&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dilliraja7&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dilliraja7&layout=compact&theme=radical" alt="Top Languages Stats"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
