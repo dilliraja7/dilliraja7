@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/dilliraja-l-b92262266/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:dillirajagopal7@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dillirajagopal7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://github.com/dilliraja7" target="_blank">
@@ -122,7 +122,7 @@ A passionate and driven **B.Tech Information Technology** graduate (2021–2025)
 I am always open to discussing new opportunities, research collaborations, or technical projects! Feel free to reach out.
 
 * 💼 **LinkedIn:** [linkedin.com/in/dilliraja-l-b92262266](https://www.linkedin.com/in/dilliraja-l-b92262266/)
-* 📧 **Email:** [dillirajagopal7@gmail.com](mailto:dillirajagopal7@gmail.com)
+* 📧 **Email:** [dillirajagopal7@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=dillirajagopal7@gmail.com)
 * 🐙 **GitHub:** [github.com/dilliraja7](https://github.com/dilliraja7)
 
 <br/>
@@ -132,7 +132,7 @@ I am always open to discussing new opportunities, research collaborations, or te
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:dillirajagopal7@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dillirajagopal7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
